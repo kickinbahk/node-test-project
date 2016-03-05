@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kickinbahk/node-test-project/issues"
   },
-  "homepage": "https://github.com/kickinbahk/node-test-project#readme"
+  "homepage": "https://github.com/kickinbahk/node-test-project#readme",
+  "dependencies": {
+    "standard": "^6.0.7"
+  },
+  "devDependencies": {
+    "jasmine-node": ""
+  }
 }
